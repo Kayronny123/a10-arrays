@@ -20,8 +20,13 @@ console.log(primeiro);
 const segundo = comidas[1] ;
 console.log(segundo);
 
-const terceiro = misturado[2]
-console.log(terceiro)
+const terceiro = misturado[2];
+console.log(terceiro);
 
-console.log(numero.includes(9))
-console.log(misturado.includes(true))
+console.log(numero.length);
+console.log(comidas.length);
+console.log(misturado.length);
+
+
+console.log(numero.includes(9));
+console.log(misturado.includes(true));
